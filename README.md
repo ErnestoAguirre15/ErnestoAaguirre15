@@ -28,4 +28,5 @@
 
         </ol>
         </main>
+        &copy; Ernesto Aguirre.
     </body>
